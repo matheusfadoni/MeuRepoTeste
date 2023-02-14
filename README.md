@@ -1,5 +1,5 @@
 # Titulo teste
 
-![./bluestones.jpg](Mensagem Teste)
+!(./bluestones.jpg)
 Este repositorio é um teste
 
