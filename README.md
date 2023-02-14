@@ -2,5 +2,5 @@
 
 ![alt text](./bluestones.jpg)
 
-Este repositorio é um teste
-
+Este repositorio é:
+Um teste maravilhoso
